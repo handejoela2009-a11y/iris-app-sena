@@ -1,0 +1,8 @@
+Coloca aquí el archivo modelo_iris.h5 generado en la Actividad 1.
+
+La aplicación lo busca en la ruta exacta:  models/modelo_iris.h5
+
+Si además guardaste un escalador (StandardScaler / MinMaxScaler), ponlo también
+aquí como scaler.pkl y sigue las instrucciones del punto 2 del README.
+
+Este archivo de texto es solo una nota; puedes borrarlo.

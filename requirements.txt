@@ -1,0 +1,13 @@
+# Dependencias de la aplicación (Python 3.9 o superior)
+# Instalación:  pip install -r requirements.txt
+
+tensorflow>=2.12,<3.0
+numpy>=1.23
+
+# tkinter viene incluido con Python.
+# En Linux, si falta:  sudo apt install python3-tk
+
+# Descomenta estas dos líneas SOLO si en la Actividad 1 guardaste un escalador
+# (StandardScaler / MinMaxScaler) y necesitas aplicarlo antes de predecir:
+# scikit-learn>=1.2
+# joblib>=1.2
